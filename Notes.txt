@@ -14,4 +14,11 @@ Lesson 02: Head element
     >The html content inside head elemet is not displayed on the pageto the user. 
     >In the demo we have added meta data info like encoding system(UTF-8),page author details,page description,page title and also links to stylesheets,page icon and js scripts. 
     >Observe the demo code for clear understanding. 
-    
+
+Lesson 03: Text Basics
+    > <h1>,<h2>,<h3>,<h4>,<h5>,<h6>,<p> etc.. these are block level elements which takes up entire space on the page/window. and they always start on new line. 
+    > <i>,<span>,<em> etc.. are the inline elemets. They take up only as much as space is required by them. and they do not start on a newline. 
+    >HTML entites:
+        -Reserved characters in HTML must be replaced with character entities.(check online for more info).
+
+
