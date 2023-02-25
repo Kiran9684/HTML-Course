@@ -1,6 +1,17 @@
+Lesson 01:
 >html pages contains 2 areas 
     >> One of the area that is not seen on the page and it is considered to be the meta data about the page and that is the head area which is enclosed in <head> </head> element.
     >><meta> is a HTML tag that contains metadata about a web page, or more specifically, descriptors that tell search engines what type of content a web page contains that is hidden from display.
     >>Other area which everybody sees in the web broswer is the body, that is enclosed with in <body> </body> element.
 
+What is UTF-8 Encoding?
+    >https://blog.hubspot.com/website/what-is-utf-8
+
 >Online  Tool to check for errors in HTML page : https://validator.w3.org/
+
+Lesson 02: Head element
+    >It is the import section in html page that contains meta data info about the page. 
+    >The html content inside head elemet is not displayed on the pageto the user. 
+    >In the demo we have added meta data info like encoding system(UTF-8),page author details,page description,page title and also links to stylesheets,page icon and js scripts. 
+    >Observe the demo code for clear understanding. 
+    
