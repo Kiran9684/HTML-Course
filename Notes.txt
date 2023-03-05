@@ -10,8 +10,8 @@ What is UTF-8 Encoding?
 >Online  Tool to check for errors in HTML page : https://validator.w3.org/
 
 Lesson 02: Head element
-    >It is the import section in html page that contains meta data info about the page. 
-    >The html content inside head elemet is not displayed on the pageto the user. 
+    >It is the important section in html page that contains meta data info about the page. 
+    >The html content inside head elemet is not displayed on the page to the user. 
     >In the demo we have added meta data info like encoding system(UTF-8),page author details,page description,page title and also links to stylesheets,page icon and js scripts. 
     >Observe the demo code for clear understanding. 
 
@@ -21,4 +21,6 @@ Lesson 03: Text Basics
     >HTML entites:
         -Reserved characters in HTML must be replaced with character entities.(check online for more info).
 
-
+Lesson 04: List Types
+    >3 types of list Orderd List,Un-ordered List and Description List. 
+    >https://www.w3schools.com/html/html_lists.asp
